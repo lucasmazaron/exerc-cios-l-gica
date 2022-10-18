@@ -14,11 +14,11 @@
 
 1. Faça um programa que leia um número e informe se ele é divisível por 3 e por 7
 2. Elabore um programa que receba o nome e a idade de uma pessoa e informe o nome, idade e o valor da mensalidade de um plano de saúde:
-  1. Até 18 anos - 50,00
-  2. De 19 a 29 anos - 70,00
-  3. De 30 a 45 anos - 90,00
-  4. De 46 a 55 anos - 130,00
-  5. Acima de 65 anos - 170,00
+  1.1. Até 18 anos - 50,00  
+  1.2. De 19 a 29 anos - 70,00  
+  1.3. De 30 a 45 anos - 90,00  
+  1.4. De 46 a 55 anos - 130,00  
+  1.5. Acima de 65 anos - 170,00  
 3. Elabore um programa que receba o salário de um funcionário e o código do cargo e apresente o cargo, o valor do aumento e o novo salário. A tabela abaixo apresenta os cargos:
 
 | **Código** | **Cargo** | **% Aumento** |
