@@ -24,7 +24,6 @@
 | **Código** | **Cargo** | **% Aumento** |
 | --- | --- | --- |
 | **1** | Servente | 40% |
-| --- | --- | --- |
 | **2** | Pedreiro | 35% |
 | **3** | Mestre de Obras | 20% |
 | **4** | Técnico de Segurança | 10% |
